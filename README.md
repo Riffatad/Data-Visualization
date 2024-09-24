@@ -7,12 +7,6 @@ This project analyzes data from a study conducted by Pymaceuticals, Inc. on the 
 •	Visualization of treatment effects using bar plots and pie charts.
 •	Analysis of correlation between mouse weight and tumor volume.
 •	Linear regression analysis to model the relationship between weight and tumor volume.
-Technologies Used
-•	Python: Version 3.x
-•	Pandas: Version 1.x
-•	NumPy: Version 1.x
-•	Matplotlib: Version 3.x
-•	SciPy: Version 1.x
 ## Data
 The dataset consists of two main files:
 1.	Mouse Metadata: Contains information about each mouse, including ID and gender.
