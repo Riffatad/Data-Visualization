@@ -15,22 +15,22 @@ Data is combined into a single Data Frame for analysis.
 Getting Started
 ## Analysis Steps
 1.	Data Import and Preview:
-o	Load the mouse metadata and study results data.
-o	Combine them into a single Data Frame.
+	Load the mouse metadata and study results data.
+	Combine them into a single Data Frame.
 2.	Duplicate Handling:
-o	Identify and remove duplicate entries based on Mouse ID and Timepoint.
+	Identify and remove duplicate entries based on Mouse ID and Timepoint.
 3.	Summary Statistics:
-o	Calculate mean, median, variance, standard deviation, and standard error of the mean (SEM) for tumor volumes across different drug regimens.
+	Calculate mean, median, variance, standard deviation, and standard error of the mean (SEM) for tumor volumes across different drug regimens.
 4.	Visualization:
-o	Create bar plots to visualize the total number of observations for each drug regimen.
-o	Generate a pie chart showing the distribution of unique mice by gender.
+	Create bar plots to visualize the total number of observations for each drug regimen.
+	Generate a pie chart showing the distribution of unique mice by gender.
 5.	Final Tumor Volume Calculation:
-o	Analyze the final tumor volumes for mice treated with Capomulin, Ramicane, Infubinol, and Ceftamin.
+	Analyze the final tumor volumes for mice treated with Capomulin, Ramicane, Infubinol, and Ceftamin.
 6.	Correlation Analysis:
-o	Calculate the correlation between mouse weight and tumor volume.
-o	Perform linear regression analysis.
+	Calculate the correlation between mouse weight and tumor volume.
+	Perform linear regression analysis.
 7.	Scatter Plot with Regression Line:
-o	Visualize the relationship between mouse weight and average tumor volume.
+	Visualize the relationship between mouse weight and average tumor volume.
 ## Results
 •	The analysis provides insights into the effectiveness of Capomulin compared to other treatment regimens.
 •	Visualizations highlight the distribution of gender among mice and the number of observations per treatment.
