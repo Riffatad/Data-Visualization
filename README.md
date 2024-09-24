@@ -1,14 +1,6 @@
 # Pymaceuticals SCC Treatment:
   # Overview
 This project analyzes data from a study conducted by Pymaceuticals, Inc. on the efficacy of various drug regimens for treating squamous cell carcinoma (SCC) in mice. The primary focus is on comparing the performance of the drug Capomulin against other treatments over a period of 45 days.
-Table of Contents
-1.	Features
-2.	Technologies Used
-3.	Data
-4.	Getting Started
-5.	Analysis Steps
-6.	Results
-7.	Conclusion
 ## Features
 •	Data cleaning and preprocessing to handle duplicates.
 •	Summary statistics for tumor volume across treatment regimens.
